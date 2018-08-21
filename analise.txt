@@ -1,0 +1,36 @@
+Analise do app
+
+o aplicativo assim que iniciado vai ter uma abertura de janela de login e senha, que serão 3 tipos de usuarios ( que ja irei informar quais são)
+
+
+o menu do aplicativo tera opções diversas (dependeo de qual for o usuario que ira usar).
+  tais como:
+	- Se a pessoa for o dono da empresa, ele ira acessar o menu 1
+		- menu 1 contem, graficos de valores, graficos de quantidade de produto no estoque, quantidade de materiais entrando e saindo todo mes, espaço alugado para gerar lucros e etc.
+
+	-se a pessoa for gerente ou cuidador do estoque, irá acessar menu 2
+		- menu 2 contém, entrada e sairda do estoque, contagem geral do estoque, fotos de cada material do estoque especifico, contem um espaço onde ele possa fazer a contagem dos materiais ( como se fosse uma alimentação de planilha do estoque, com fotos, nome do produto e o tamanho ou o tipo do produto, dependendo se for roupa ou materiais diversos.
+controle de pedidos ( caso um cliente venha pedir separação de mateirias, o aplicativo armazena dados como ( horario, dia e ano e o principal " NOME" da pessoa que fez o pedido no chat, sendo assim tambem armazenando as conversas no chato e enviando para o menu 1.
+
+	-se a pessoa for ususario de BKO(clientes) da empresa, acesso ao menu 3
+		-menu 3 contém, chat para falar com o gerente ou cuidador do estoque, um botao com "pedidos" para que ele possa fazer pedirdos de materiais para separação, um menu que ele possa ver oque ele tem de materiais armazenado dentro do estoque ( nesse menu, ele so irá conseguir ver os materiais que seja do JOB dele), ele vai ver, e ja la no menu ele manda pelo chat a quantidade e quais tipos de materiais a ser separado para poder retirar.
+
+
+no menu central do aplicativo tera logo da empresa no fundo ex: como um papel de parede do facebook, na frente tem o nome e o cargo da pessoa junto com um quadradinho com foto.
+
+o aplicativo vai ter cadastro de clientes assim que se logarem pela primeira vez, eles vao ter que tem uma chave de acesso de cada cliente diferente, cada ussuario tera uma chave do seu cliente. ex:
+
+CLIENTE : LENOVO 
+USUARIO : LUIZ FELIPE DA SILVA 
+CHAVE DE ACESSO : 1800379
+
+na hora que o "luiz felipe da silva" for fazer o cadastro, ira pedir para ele colocar nome do cliente ( sabendo que na hora de colocar ele so vai clicar e abrir uma janela e selecionar o cliente dele ) assim que ele selecionar o cliente ja vai pedir embaixo a chave de acesso, depois disso ele vai ser liberado e proseguir com o cadastro dele. 
+
+
+
+
+
+
+
+
+
