@@ -1,0 +1,30 @@
+RA:1800847 Gabriel Magri Ferreira
+TESTANDO O APLICATIVO
+ 
+IREI FAZER TESTES DE TODOS OS TIPOS, ENTRE ELE OS BUGS DE SISTEMA  QUE SAO :
+Quando a linguagem do computador entra em conflito e gera uma impossibilidade de continuar a execução de um programa.
+
+TESTE DE SISTEMA: no sistema tambem pode ter conflito entre os icones ou menu e graficos. EXEMPLO
+(menu nao abrir) ( iconi nao funcionar direito) ( grafico com erros de demonstração)
+
+Teste de unidade: é toda a aplicação de teste nas assinaturas de entrada e saída de um sistema. Consiste em validar dados válidos e inválidos via I/O (entrada/saída) sendo aplicado por desenvolvedores ou analistas de teste.
+
+
+
+TESTANDO O SOFTWARE: O teste do software é a investigação do software a fim de fornecer informações sobre sua qualidade em relação ao contexto em que ele deve operar, se relaciona com o conceito de verificação e validação. Isso inclui o processo de utilizar o produto para encontrar seus defeitos.
+
+
+
+
+TESTE DE INTEGRAÇÃO: Teste de integração é a fase do teste de software em que módulos são combinados e testados em grupo. Ela sucede o teste de unidade, em que os módulos são testados individualmente, e antecede o teste de sistema, em que o sistema completo (integrado) é testado num ambiente que simula o ambiente de produção.
+
+
+MOBILIDADE: geolocalização, conexão com servidores e comunicação entre aplicativos funcionem de maneira eficaz e estruturada.
+
+
+SICRONISMO: na sincronização dos dados na rede, não há perdas excessivas de pacotes e reenvios.
+
+
+
+Layout: Testar o layout para diferentes tamanhos de telas, resoluções e orientações — paisagem e retrato — é essencial para não ter problemas com o design.
+
