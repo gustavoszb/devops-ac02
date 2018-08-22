@@ -1,4 +1,5 @@
-﻿  TESTANDO O APLICATIVO
+RA:1800847 Gabriel Magri Ferreira
+TESTANDO O APLICATIVO
  
 IREI FAZER TESTES DE TODOS OS TIPOS, ENTRE ELE OS BUGS DE SISTEMA  QUE SAO :
 Quando a linguagem do computador entra em conflito e gera uma impossibilidade de continuar a execução de um programa.
