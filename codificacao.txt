@@ -1,0 +1,20 @@
+	
+
+
+
+	O back-end do aplicativo será desenvolvido utilizando a linguagem de programação Python.
+	
+	O banco de dados será o MySQL.
+	
+	O aplicativo terá compatibilidade com PCs e Smartphones.
+	O desenvolvimento será em phonegap, com estrutura web (HTML5, CSS, javaScript)
+
+	O projeto terá 3 tipos de cadastro(Administrador/Gerente de estoque, Master, Cliente ),cada uma delas definidas pelo administrador, assim cada usuario terá acesso apenas ao que é definido para ele.
+	
+	menu - Será feito uma programação para login com a validação do usuário com: Login, Senha e Chave de Acesso(Para acessar o menu específico).
+	
+	Tela 1 - Será acessada pelo Master, poderá visualizar e exportar gráficos referente as operações realizadas dentro de sua empresa( entrada e saída de estoque, vendas semanais/mensais/anuais).
+	
+	Tela 2 - Será acessada pelo usuário Gerente/Administrador, poderá alterar, inserir, excluir e contabilizar os dados/produtos do aplicativo.
+	
+	Tela 3 - Será acessada pelo usuário Cliente, esse poderá visualizar gráficos referente a vendasde produtos e quantidades de entrada e saída.
