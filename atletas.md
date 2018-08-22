@@ -1,9 +1,10 @@
 
 # Melhores atletas
+* Cristiano Ronaldo
 * Pelé 
-*  bolt
+* Usain Bolt
 * Michael Jordan
-*
+* 
 *
 *
 *
