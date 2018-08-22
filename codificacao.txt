@@ -1,20 +1,20 @@
 	
+	Lucas Matheus Oliva do Nascimento RA1800339
 
 
+	O back-end do aplicativo ser√° desenvolvido utilizando a linguagem de programa√ß√£o Python.
+	
+	O banco de dados ser√° o MySQL.
+	
+	O aplicativo ter√° compatibilidade com PCs e Smartphones.
+	O desenvolvimento ser√° em phonegap, com estrutura web (HTML5, CSS, javaScript)
 
-	O back-end do aplicativo ser· desenvolvido utilizando a linguagem de programaÁ„o Python.
+	O projeto ter√° 3 tipos de cadastro(Administrador/Gerente de estoque, Master, Cliente ),cada uma delas definidas pelo administrador, assim cada usuario ter√° acesso apenas ao que √© definido para ele.
 	
-	O banco de dados ser· o MySQL.
+	menu - Ser√° feito uma programa√ß√£o para login com a valida√ß√£o do usu√°rio com: Login, Senha e Chave de Acesso(Para acessar o menu espec√≠fico).
 	
-	O aplicativo ter· compatibilidade com PCs e Smartphones.
-	O desenvolvimento ser· em phonegap, com estrutura web (HTML5, CSS, javaScript)
-
-	O projeto ter· 3 tipos de cadastro(Administrador/Gerente de estoque, Master, Cliente ),cada uma delas definidas pelo administrador, assim cada usuario ter· acesso apenas ao que È definido para ele.
+	Tela 1 - Ser√° acessada pelo Master, poder√° visualizar e exportar gr√°ficos referente as opera√ß√µes realizadas dentro de sua empresa( entrada e sa√≠da de estoque, vendas semanais/mensais/anuais).
 	
-	menu - Ser· feito uma programaÁ„o para login com a validaÁ„o do usu·rio com: Login, Senha e Chave de Acesso(Para acessar o menu especÌfico).
+	Tela 2 - Ser√° acessada pelo usu√°rio Gerente/Administrador, poder√° alterar, inserir, excluir e contabilizar os dados/produtos do aplicativo.
 	
-	Tela 1 - Ser· acessada pelo Master, poder· visualizar e exportar gr·ficos referente as operaÁıes realizadas dentro de sua empresa( entrada e saÌda de estoque, vendas semanais/mensais/anuais).
-	
-	Tela 2 - Ser· acessada pelo usu·rio Gerente/Administrador, poder· alterar, inserir, excluir e contabilizar os dados/produtos do aplicativo.
-	
-	Tela 3 - Ser· acessada pelo usu·rio Cliente, esse poder· visualizar gr·ficos referente a vendasde produtos e quantidades de entrada e saÌda.
+	Tela 3 - Ser√° acessada pelo usu√°rio Cliente, esse poder√° visualizar gr√°ficos referente a vendasde produtos e quantidades de entrada e sa√≠da.
