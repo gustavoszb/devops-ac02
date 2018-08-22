@@ -1,3 +1,6 @@
+# RA: 1800379
+# LUIZ FELIPE DA SILVA
+
 Analise do app
 
 o aplicativo assim que iniciado vai ter uma abertura de janela de login e senha, que serão 3 tipos de usuarios ( que ja irei informar quais são)
