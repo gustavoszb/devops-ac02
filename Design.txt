@@ -1,24 +1,27 @@
+Nome: Jonathan Arthur Paes
+RA: 1410656
+
 Tecnologia usada: CSS
-Segmento de design: Material design com influÍncias de Apple UIKit
+Segmento de design: Material design com influ√™ncias de Apple UIKit
 
 Arvore
 
 Tela de login:
 
 	Menu Operacional (Menu 3)
-		VisualizaÁ„o do que h· no estoque da marca
-			Possibilidade de alterar entre vis„o de lista e grade
+		Visualiza√ß√£o do que h√° no estoque da marca
+			Possibilidade de alterar entre vis√£o de lista e grade
 			Possibilidade de filtrar por data, quantidade, nome ou tipo de produto
 			Dados: Produto, foto, quantidade no estoque
 		Possibilidade de exportar dados em xlsx ou pdf
 
 	Menu Gerencial / administrativo (Menu 2)
-		Menu exatamente igual ao nivel operacional, com a adiÁ„o da possiblidade de controlar v·rias marcas e estoques
+		Menu exatamente igual ao nivel operacional, com a adi√ß√£o da possiblidade de controlar v√°rias marcas e estoques
 		Design facilitado para o gerenciamento de estoques
-			Tela geral, criada para facilitar a obtenÁ„o de dados.
-		AdiÁ„o do bot„o FAB flutuante para adicionar dados
+			Tela geral, criada para facilitar a obten√ß√£o de dados.
+		Adi√ß√£o do bot√£o FAB flutuante para adicionar dados
 			Tela para cadastro de produtos
 
 	Menu de dashboard (Menu 1)
-		Gr·ficos com os dados cont·beis gerais:
+		Gr√°ficos com os dados cont√°beis gerais:
 		Possibilidade de exportar dados em xlsx ou pdf
